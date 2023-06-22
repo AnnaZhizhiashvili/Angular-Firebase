@@ -1,6 +1,5 @@
 export const environment = {
   production: false,
-  useEmulators: true,
   firebase: {
     apiKey: "AIzaSyDAW_4eFwNQ5ouZP8RCFNwr8CrqIfd9Qiw",
     authDomain: "fir-89d33.firebaseapp.com",
